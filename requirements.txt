@@ -1,0 +1,13 @@
+# Kagaz dependencies. Tested on Python 3.13 / Windows 11.
+
+ollama>=0.4.0
+reportlab>=4.2.0
+streamlit>=1.38.0
+pyyaml>=6.0.1
+pandas>=2.2.0
+python-dotenv>=1.0.1
+pytest>=8.2.0
+requests>=2.32.0
+
+# Optional — may fail to build on Python 3.13. App must still run without it.
+# tabpfn>=2.0.0
